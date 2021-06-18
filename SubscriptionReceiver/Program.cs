@@ -8,7 +8,7 @@ namespace SubscriptionReceiver
     {
 
         // connection string to your Service Bus namespace
-        static string connectionString = "Endpoint=sb://exemplo-azure-2.servicebus.windows.net/;SharedAccessKeyName=topic1;SharedAccessKey=5njmTN4c9cAXLF5UbI6e6Fi8D4+v0R1i0TMYJOGjeDo=;EntityPath=topicexemplo1";
+        static string connectionString = "...";
 
         // name of the Service Bus topic
         static string topicName = "topicexemplo1";
